@@ -1,6 +1,6 @@
 # TensorFlow Reinforcement Learning Quick Start Guide
 
-<https://prod.packtpub.com/in/big-data-and-business-intelligence/tensorflow-reinforcement-learning-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789533583><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<https://prod.packtpub.com/in/big-data-and-business-intelligence/tensorflow-reinforcement-learning-quick-start-guide?utm_source=github&utm_medium=repository><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
 
 This is the code repository for [TensorFlow Reinforcement Learning Quick Start Guide](https://prod.packtpub.com/in/big-data-and-business-intelligence/tensorflow-reinforcement-learning-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789533583), published by Packt.
 
