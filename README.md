@@ -50,19 +50,12 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Deep Reinforcement Learning Hands-On [[Packt]](https://prod.packtpub.com/in/big-data-and-business-intelligence/deep-reinforcement-learning-hands?utm_source=github&utm_medium=repository&utm_campaign=9781788834247) [[Amazon]](https://www.amazon.com/dp/1788839307)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Python Reinforcement Learning Projects [[Packt]](https://prod.packtpub.com/in/big-data-and-business-intelligence/python-reinforcement-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788991612) [[Amazon]](https://www.amazon.com/dp/1788993225)
 
-## Get to Know the Author(s)
-**Author Name**
-Bio
+## Get to Know the Author
+**Kaushik Balakrishnan**
+works for BMW in Silicon Valley, and applies reinforcement learning, machine learning, and computer vision to solve problems in autonomous driving. Previously, he also worked at Ford Motor Company and NASA Jet Propulsion Laboratory. His primary expertise is in machine learning, computer vision, and high-performance computing, and he has worked on several projects involving both research and industrial applications. He has also worked on numerical simulations of rocket landings on planetary surfaces, and for this he developed several high-fidelity models that run efficiently on supercomputers. He holds a PhD in aerospace engineering from the Georgia Institute of Technology in Atlanta, Georgia.
 
-**Author Name**
-Bio
-
-
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
