@@ -50,7 +50,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Deep Reinforcement Learning Hands-On [[Packt]](https://prod.packtpub.com/in/big-data-and-business-intelligence/deep-reinforcement-learning-hands?utm_source=github&utm_medium=repository&utm_campaign=9781788834247) [[Amazon]](https://www.amazon.com/dp/1788839307)
 
-* Python Reinforcement Learning Projects [[Packt]](https://prod.packtpub.com/in/big-data-and-business-intelligence/python-reinforcement-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788991612) [[Amazon]](https://www.amazon.com/dp/1788993225)
+* Python Reinforcement Learning Projects [[Packt]](https://prod.packtpub.com/in/big-data-and-business-intelligence/python-reinforcement-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788991612) [[Amazon]](https://www.amazon.com/dp/1788991613)
 
 ## Get to Know the Author
 **Kaushik Balakrishnan**
