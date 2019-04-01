@@ -9,7 +9,7 @@ This is the code repository for [Book Name](Packt UTM URL of the Book), publishe
 ## What is this book about?
 Advances in reinforcement learning algorithms have made it possible to use them for optimal control in several different industrial applications. With this book, you will apply Reinforcement Learning to a range of problems, from computer games to autonomous driving.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Understand the theory and concepts behind modern Reinforcement Learning algorithms
 * Code state-of-the-art Reinforcement Learning algorithms with discrete or continuous actions
 * Develop Reinforcement Learning algorithms and apply them to training agents to play computer games
@@ -24,6 +24,8 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10Di
 All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
+
+```
 import numpy as np 
 import sys 
 import matplotlib.pyplot as plt
